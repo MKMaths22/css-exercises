@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
